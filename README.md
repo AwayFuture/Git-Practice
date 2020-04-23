@@ -32,4 +32,4 @@ dd
 
 master no and hhhh.
 
-12￥￥￥33
+12&&&33
