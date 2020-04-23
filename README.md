@@ -23,7 +23,7 @@ dev branch
 <<<<<<< HEAD
 dev branch naaaaa and fff
 =======
-dev branch naaaaa &&& fff
+dev branch naaaaa &&& fff &&&& conflictla
 >>>>>>> dd
 
 master no and hhhh.
