@@ -25,7 +25,7 @@ dev branch naaaaa and fff
 =======
 <<<<<<< HEAD
 
-dev branch naaaaa &&& fff &&&& conflictla --- conflict 2
+dev branch naaaaa &&& fff &&&& conflictla &&& conflict 2
 
 
 dd
