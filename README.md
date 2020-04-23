@@ -20,7 +20,7 @@ American, also a famous country by telanpu
 dev branch
 
 <<<<<<< HEAD
-dev branch naaaaa &&& fff
+dev branch naaaaa 88 fff
 
 master no and hhhh.
 
