@@ -25,11 +25,15 @@ dev branch naaaaa and fff
 =======
 <<<<<<< HEAD
 
-dev branch naaaaa &&& fff &&&& conflictla --- conflict 2
+dev branch naaaaa &&& fff &&&& conflictla &&& conflict 2
 
 
 dd
 
 master no and hhhh.
 
+<<<<<<< HEAD
 12&&&33445
+=======
+12---33
+>>>>>>> dd
