@@ -19,6 +19,7 @@ American, also a famous country by telanpu
 
 dev branch
 
+<<<<<<< HEAD
 dev branch noww
 
 master now.
