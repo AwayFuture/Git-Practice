@@ -23,8 +23,12 @@ dev branch
 <<<<<<< HEAD
 dev branch naaaaa and fff
 =======
+<<<<<<< HEAD
+
 dev branch naaaaa &&& fff &&&& conflictla
->>>>>>> dd
+
+
+dd
 
 master no and hhhh.
 
