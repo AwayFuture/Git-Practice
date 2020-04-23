@@ -18,10 +18,10 @@ American, also a famous country by telanpu
 123.
 
 dev branch
-
-<<<<<<< HEAD
 dev branch noww
 
 master no && hhhh.
+
+master no and hhhh.
 
 1111
