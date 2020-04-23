@@ -18,9 +18,9 @@ American, also a famous country by telanpu
 123.
 
 dev branch
-dev branch noww
 
-master no && hhhh.
+<<<<<<< HEAD
+dev branch noww && fff
 
 master no and hhhh.
 
