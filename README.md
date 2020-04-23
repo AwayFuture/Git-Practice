@@ -26,10 +26,14 @@ dev branch naaaaa and fff
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 dev branch naaaaa &&& fff &&&& conflictla &&& conflict 2
 =======
 dev branch naaaaa &&& fff &&&& conflictla &&& conflict 2
 >>>>>>> da51cec54eddd140cf3def9cbc5b65e0cb0290de
+=======
+dev branch naaaaa &&& fff &&&& conflictla --& conflict 2aaa
+>>>>>>> 220854d547c48277fb1beafaf0dee8f5bb1d81d9
 
 
 dd
